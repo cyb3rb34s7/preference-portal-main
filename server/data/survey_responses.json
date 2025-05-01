@@ -1,0 +1,165 @@
+[
+  {
+    "timestamp": "2025-05-01T18:31:37.563Z",
+    "userName": "Raja Kumar Singh",
+    "userId": "Rada",
+    "responses": [
+      {
+        "setId": "set1",
+        "setName": "Entertainment Preferences",
+        "contentSelections": [
+          {
+            "contentItemId": "content2",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content3",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content4",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content5",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "content1",
+            "selectedStyle": "genz"
+          }
+        ],
+        "topicSelection": {
+          "selectedTopicId": "topic-simple-1"
+        }
+      },
+      {
+        "setId": "set2",
+        "setName": "Technology Trends",
+        "contentSelections": [
+          {
+            "contentItemId": "content2",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content3",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content4",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content5",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "content1",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "tech1",
+            "selectedStyle": "simple"
+          },
+          {
+            "contentItemId": "tech2",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "tech3",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "tech4",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "tech5",
+            "selectedStyle": "genz"
+          }
+        ],
+        "topicSelection": {
+          "selectedTopicId": "topic-simple-1"
+        }
+      },
+      {
+        "setId": "set1",
+        "setName": "Entertainment Preferences",
+        "contentSelections": [
+          {
+            "contentItemId": "content2",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "content3",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content4",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "content5",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content1",
+            "selectedStyle": "attractive"
+          }
+        ],
+        "topicSelection": {
+          "selectedTopicId": "topic-simple-1"
+        }
+      },
+      {
+        "setId": "set2",
+        "setName": "Technology Trends",
+        "contentSelections": [
+          {
+            "contentItemId": "content2",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "content3",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content4",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "content5",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "content1",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "tech3",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "tech4",
+            "selectedStyle": "simple"
+          },
+          {
+            "contentItemId": "tech5",
+            "selectedStyle": "attractive"
+          },
+          {
+            "contentItemId": "tech2",
+            "selectedStyle": "genz"
+          },
+          {
+            "contentItemId": "tech1",
+            "selectedStyle": "attractive"
+          }
+        ],
+        "topicSelection": {
+          "selectedTopicId": "topic-simple-2"
+        }
+      }
+    ]
+  }
+]
